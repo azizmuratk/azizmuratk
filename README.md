@@ -10,8 +10,6 @@
 <p  align="left" > 
  
 
-<img  align="left" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="javascript" width="40" height="40px"/> 
-
 <img  align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="javascript" width="40" height="40px"/> 
 
 <img  align="left" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="javascript" width="40" height="40px"/>
